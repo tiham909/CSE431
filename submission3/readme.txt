@@ -3,19 +3,19 @@ https://youtu.be/UM8RMGBtphU
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/shuvo-99/CSE431/blob/main/submission3/CSE431_Group%2025_Concept%20Map.pdf 
+https://github.com/tiham909/CSE431/blob/main/submission3/CSE431_Task3_ConceptMap.pdf 
 Native/original format: 
-https://drive.google.com/file/d/1vcs_cein3cBVjRz7PYYUFtvH4ZjaL8zP/view?usp=sharing 
+
 
 Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
+Natural Language Processing
+Jacob Einstein
 3rd edition
-2014
-Pearson
+2018
+The MIT Press
 
 Link to the book:
-https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf
 
 Link to the book chapter:
 Chapter 6 [Language Models]
