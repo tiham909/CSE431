@@ -4,7 +4,7 @@ https://www.overleaf.com/7231977525vvhwdcpkfgbr
 Unlisted YouTube video:
 https://youtu.be/fyaPCyYZSfI
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/User/Login
 
 
 Paper title:
@@ -13,16 +13,16 @@ EmoSense: Exploring Textual Emotions using Multi-Model Analysis with K-fold Cros
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/11i51MY1vpqurp8ah3RaZzVJz3-2ue69WsGLDFmTk2_4/edit?usp=sharing
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 9/11/2023
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: (received) from conference/workshop: 358
 
 
-Conference Name:
+Conference Name: 26th International Conference on Computer and Information Technology
 
 
-Conference URL:
+Conference URL: https://iccit.org.bd/2023/
  
 
 Group Number:
